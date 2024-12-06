@@ -18,6 +18,15 @@ class WelcomePage extends StatelessWidget {
               Text(
                 'Welcome to the Flutter Starter Pack',
               ),
+              Text("""Details:
+              
+              This app has Auto Route integrated,
+              Extension method in Sizedbox
+              
+              
+              
+              
+              """)
             ],
           ),
         ));
